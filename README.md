@@ -3,7 +3,7 @@
 Scrollimage slide image - extends ImageView, and provides parallax effects when it scrolls in the screen.It can be use in any view which can scroll its content, like ListView, RecyclerView, ScrollView, etc.
 
 ## ScreenShots
-
+ example
 <img src="screenshot/ss1.gif" width="270">
 
 
